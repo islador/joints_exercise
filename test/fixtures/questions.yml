@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  concept_id: 1
+  question1: MyString
+  wrong_answer1A: MyString
+  wrong_answer1B: MyString
+  wrong_answer1C: MyString
+  correct_answer1: MyString
+  incorrect_feedback1: MyString
+  correct_feedback1: MyString
+
+two:
+  concept_id: 1
+  question1: MyString
+  wrong_answer1A: MyString
+  wrong_answer1B: MyString
+  wrong_answer1C: MyString
+  correct_answer1: MyString
+  incorrect_feedback1: MyString
+  correct_feedback1: MyString
